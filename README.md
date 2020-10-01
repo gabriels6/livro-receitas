@@ -1,4 +1,4 @@
-#Livro de receitas :man cook:
+#Livro de receitas :cook:
 
 Hello! Welcome to my recipe book :wave:
 
